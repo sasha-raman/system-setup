@@ -1,2 +1,2 @@
 # system-setup
-Repository for setup instructions for Ubuntu
+Repository for setup instructions for common development utilities in Ubuntu
